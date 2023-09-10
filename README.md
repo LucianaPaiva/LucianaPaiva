@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/LucianaPaiva">
-    <img width="210em" src="https://github-readme-stats.vercel.app/api?username=LucianaPaiva&show_icons=true&theme=highcontrast"/>
-    <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaPaiva&theme=highcontrast"/>     
+    <img width="220em" src="https://github-readme-stats.vercel.app/api?username=LucianaPaiva&show_icons=true&theme=highcontrast"/>
+    <img width="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaPaiva&theme=highcontrast"/>     
   </a>
 </div>
 
