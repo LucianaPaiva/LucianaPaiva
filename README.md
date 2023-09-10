@@ -1,15 +1,30 @@
-### Oiii, Sou Luciana Paiva 👋
+<h2>Oiii, Eu sou Luciana Paiva 👋</h2>
+
+<p></p>
+
+- 🔭 Estou entrando em um mundo novo
+- 🌱 Estou estudando FullStack (JS, Python, HTML/CSS, React Native)
 
 
-**LucianaPaiva/LucianaPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/LucianaPaiva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianaPaiva&show_icons=true&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaPaiva&theme=highcontrast"/>     
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<div style="display: inline_block"><br>
+  <i class="devicon-html5-plain-wordmark colored"></i>
+  <img height="50em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="50em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="50em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="50em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+</div>
+
+<!--
+![Snake animation] (https://github.com/auridebson/auridebson)
+-->
