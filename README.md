@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/LucianaPaiva">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucianaPaiva&show_icons=true&theme=highcontrast"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaPaiva&theme=highcontrast"/>     
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucianaPaiva&show_icons=true&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaPaiva&theme=dracula"/>     
   </a>
 </div>
 
@@ -24,7 +24,3 @@
   <img height="50em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 </div>
-
-<!--
-![Snake animation] (https://github.com/auridebson/auridebson)
--->
